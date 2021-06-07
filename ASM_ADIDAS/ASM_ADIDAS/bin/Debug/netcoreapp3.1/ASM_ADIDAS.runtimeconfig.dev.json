@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CAOTANLOC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CAOTANLOC\\.nuget\\packages"
+    ]
+  }
+}
